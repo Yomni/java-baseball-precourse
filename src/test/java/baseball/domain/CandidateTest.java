@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 class CandidateTest {
-
     @Test
     public void successCreateCandidate() {
         List<Integer> assertList = new ArrayList<>();

@@ -3,7 +3,6 @@ package baseball.repository;
 import baseball.domain.Answer;
 
 public class MemoryAnswerNumberRepository implements AnswerNumberRepository {
-
     private Answer answer;
 
     @Override

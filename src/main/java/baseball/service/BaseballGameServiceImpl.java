@@ -7,7 +7,7 @@ import baseball.repository.AnswerNumberRepository;
 
 import java.util.Map;
 
-public class BaseballGameServiceImpl implements BaseballGameService{
+public class BaseballGameServiceImpl implements BaseballGameService {
     private final AnswerNumberRepository answerNumberRepository;
 
     public BaseballGameServiceImpl(AnswerNumberRepository answerNumberRepository) {
